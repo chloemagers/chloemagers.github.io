@@ -1,6 +1,7 @@
 body {
-	color:white ;
-	background-color: #E8CED0 ;
+	text-align: center;
+	background: url("images/hawaii.jpeg");
+	background-size: cover;
 	font-family: Arial, sans-serif
 
 }
